@@ -12,6 +12,8 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+
+        //Nghia was here
         public Form1()
         {
             InitializeComponent();
