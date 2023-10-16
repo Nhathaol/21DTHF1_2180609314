@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("sdsadasd");
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
