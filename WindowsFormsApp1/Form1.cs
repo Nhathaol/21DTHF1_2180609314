@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// gia bảo đã ơ đây
 namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
